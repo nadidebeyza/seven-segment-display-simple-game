@@ -9,7 +9,11 @@ TODAY YOU WILL HAVE... is a very simple fortune game. A user plays once a day an
 
 ![Example output of the code](https://github.com/nadidebeyza/seven-segment-display-simple-game/blob/main/dokurna_abst_img.png "Example output of the code")
 
-![Example output of the code](https://github.com/nadidebeyza/face-recognition-performance-eval/blob/main/Output/3.2.png "Example output of the code")
+![Example output of the code](https://github.com/nadidebeyza/seven-segment-display-simple-game/blob/main/2.png "Example output of the code")
+
+![Example output of the code](https://github.com/nadidebeyza/seven-segment-display-simple-game/blob/main/3.png "Example output of the code")
+
+![Example output of the code](https://github.com/nadidebeyza/seven-segment-display-simple-game/blob/main/4.png "Example output of the code")
 
 
 
